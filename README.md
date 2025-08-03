@@ -33,7 +33,7 @@
 
 ### 📫 Get in Touch
 
-- Email: [adityashirsat1170.com]
+- Email: [adityashirsat1170.@gmail.com]
 - LinkedIn: [[LinkedIn](https://www.linkedin.com/in/adityashirsat/)]
 - Portfolio: [In Progress]
 
@@ -45,8 +45,3 @@
 
 _“Code is like humor. When you have to explain it, it’s bad.”_
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views" alt="Profile views"/>
-</p>

@@ -33,7 +33,7 @@
 
 ### 📫 Get in Touch
 
-- Email: [adityashirsat1170.@gmail.com]
+- Email: [adityashirsat1170@gmail.com]
 - LinkedIn: [[LinkedIn](https://www.linkedin.com/in/adityashirsat/)]
 - Portfolio: [In Progress]
 

@@ -35,7 +35,7 @@
 
 - Email: [adityashirsat1170@gmail.com]
 - LinkedIn: [[LinkedIn](https://www.linkedin.com/in/adityashirsat/)]
-- Portfolio: [In Progress]
+- Portfolio: [[Link](aditya-shirsat.netlify.app)]
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>

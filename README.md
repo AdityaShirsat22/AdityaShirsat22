@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ADITYA SHIRSAT 👋</h1>
-<p align="center"><img src="<img width="240" height="204" alt="image" src="https://github.com/user-attachments/assets/39db0bf6-08d8-49e3-affc-be9278012aa1" />
+<p align="center"><img src="https://github.com/user-attachments/assets/39db0bf6-08d8-49e3-affc-be9278012aa1" />
 " width="300"/></p>
 
 

@@ -4,10 +4,10 @@
 
 ---
 
-- 🌱 I’m a passionate **Java Developer** who loves building scalable web apps.
+- 🌱 I’m a passionate **Flutter Developer** who loves building scalable apps.
 - 🚀 Always learning new technologies and frameworks.
-- 💬 Ask me about **Java, Python, HTML, CSS, JS, MySQL, Figma, Git**
-- 🛠️ Currently focusing on polishing my **Java skills** with Spring Boot.
+- 💬 Ask me about **Flutter, Java, Python, HTML, CSS, JS, MySQL, Figma, Git**
+- 🛠️ Currently focusing on polishing my **FLutter skills**
 
 ---
 
